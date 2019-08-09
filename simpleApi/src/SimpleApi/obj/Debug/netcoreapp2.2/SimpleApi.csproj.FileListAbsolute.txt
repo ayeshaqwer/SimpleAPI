@@ -1,0 +1,14 @@
+F:\simpleApi\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.deps.json
+F:\simpleApi\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.runtimeconfig.json
+F:\simpleApi\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.runtimeconfig.dev.json
+F:\simpleApi\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.dll
+F:\simpleApi\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.pdb
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.csprojAssemblyReference.cache
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.csproj.CoreCompileInputs.cache
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorAssemblyInfo.cache
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorAssemblyInfo.cs
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.AssemblyInfoInputs.cache
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.AssemblyInfo.cs
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorTargetAssemblyInfo.cache
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.dll
+F:\simpleApi\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.pdb
